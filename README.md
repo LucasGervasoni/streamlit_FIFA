@@ -7,6 +7,8 @@
 
 Dashboard interativo construído com Streamlit para a visualização e análise de dados de jogadores do FIFA. A aplicação permite explorar, filtrar e visualizar estatísticas de jogadores, clubes e nações de forma intuitiva.
 
+link do projeto: https://appfifadat.streamlit.app/
+
 ### 🛠️ Tecnologias Utilizadas
 
 * Python
